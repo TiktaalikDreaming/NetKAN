@@ -10,5 +10,8 @@
     "install": [ {
         "find":       "KOOSE",
         "install_to": "GameData"
-    } ]
+    } ],
+    "recommends": [
+        { "name": "KIS" }
+    ]
 }
